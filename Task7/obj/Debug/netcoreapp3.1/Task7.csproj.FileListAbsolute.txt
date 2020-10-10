@@ -1,0 +1,12 @@
+C:\Users\dizon\source\repos\ISMDotNet2\Task7\bin\Debug\netcoreapp3.1\Task7.exe
+C:\Users\dizon\source\repos\ISMDotNet2\Task7\bin\Debug\netcoreapp3.1\Task7.deps.json
+C:\Users\dizon\source\repos\ISMDotNet2\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.json
+C:\Users\dizon\source\repos\ISMDotNet2\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.dev.json
+C:\Users\dizon\source\repos\ISMDotNet2\Task7\bin\Debug\netcoreapp3.1\Task7.dll
+C:\Users\dizon\source\repos\ISMDotNet2\Task7\bin\Debug\netcoreapp3.1\Task7.pdb
+C:\Users\dizon\source\repos\ISMDotNet2\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfoInputs.cache
+C:\Users\dizon\source\repos\ISMDotNet2\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfo.cs
+C:\Users\dizon\source\repos\ISMDotNet2\Task7\obj\Debug\netcoreapp3.1\Task7.csproj.CoreCompileInputs.cache
+C:\Users\dizon\source\repos\ISMDotNet2\Task7\obj\Debug\netcoreapp3.1\Task7.dll
+C:\Users\dizon\source\repos\ISMDotNet2\Task7\obj\Debug\netcoreapp3.1\Task7.pdb
+C:\Users\dizon\source\repos\ISMDotNet2\Task7\obj\Debug\netcoreapp3.1\Task7.genruntimeconfig.cache
